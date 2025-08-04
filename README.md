@@ -1,6 +1,6 @@
 # setcoverproblem_data_20_8_sample.xlsx の使い方
 
-このReadmeでは，setcoverproblem_data_20_8_sample.xlsxファイルの構成と，[工事立会者手配業務最適化サービス] (https://st-app-setcoverproblem-504242909255.asia-northeast1.run.app/) への入力方法について説明します．
+このReadmeでは，setcoverproblem_data_20_8_sample.xlsxファイルの構成と，[工事立会者手配業務最適化サービス](https://st-app-setcoverproblem-504242909255.asia-northeast1.run.app/) への入力方法について説明します．
 
 ## 概要
 
@@ -56,4 +56,4 @@
 
 このツールは，集合被覆問題のアプローチを用いて，工事立会者の最適な割り当てを行います．社員のスキルレベル，工事の難易度，移動時間などの複合的な要素を考慮し，効率的かつ現実的な工事立会スケジュールを生成します．
 
-詳細な理論背景については，[「工事立会者手配業務に対する数理モデルと実践的解法」]（https://nagoya.repo.nii.ac.jp/record/2005628/files/k14380_thesis.pdf）を参照してください．
+詳細な理論背景については，[「工事立会者手配業務に対する数理モデルと実践的解法」](https://nagoya.repo.nii.ac.jp/record/2005628/files/k14380_thesis.pdf)を参照してください．
